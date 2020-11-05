@@ -1,0 +1,22 @@
+.card{
+  box-shadow: 2px 2px 5px 1pxa(0, 0, 0, 0.2);
+}
+.avatar{
+  border-radius: 5px;  
+}
+body, #modal-personalInfo, .modal-footer{
+  background: linear-gradient(to right, rgb(53, 130, 163, 0.9), rgba(145, 142, 138, 0.8)) !important;
+}
+
+.Modal {
+  opacity: 0.9;
+}
+
+.modal-text {
+  font-size: 25px;
+}
+
+.modal-avatar {
+  border-radius: 100%;
+  min-width: 200px;
+}
